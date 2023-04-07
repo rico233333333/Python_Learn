@@ -1,0 +1,4 @@
+QLabel#notice[notice_worning = "worning"]{
+    font-size : 30px;
+    color : red;
+}
